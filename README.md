@@ -1,62 +1,52 @@
-# 👋 Hola, soy [MurDev]
+# Juan Pablo Acosta Murillo
 
-![Banner](https://via.placeholder.com/1000x200/222/fff?text=Bienvenido+a+mi+Perfil+de+GitHub)
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Enterprise-lightgrey)
+![EDI](https://img.shields.io/badge/Integraciones-EDI-informational)
+![Billing](https://img.shields.io/badge/Facturación-Electrónica-success)
+![QA](https://img.shields.io/badge/QA-Automatización-yellow)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+**Ingeniero de Sistemas | Desarrollador de Software | Integraciones Empresariales | Facturación Electrónica | QA Técnico**
 
+---
 
+🌐 **Idioma / Language / Langue**
 
+* 🇪🇸 Español (actual)
+* 🇬🇧 [English](README.en.md)
+* 🇫🇷 [Français](README.fr.md)
 
-## 🌟 Sobre Mí
-Soy un desarrollador **Full-Stack** con experiencia en **C#**, **Java**, y herramientas de generación de reportes como **Crystal Reports** y **JasperReports**.
+---
 
-- 🌐 Trabajo en soluciones de **Facturación Electrónica** para Colombia, Perú, México y Argentina.
-- 📚 Actualmente, estoy aprendiendo más sobre **tecnologías front-end** y desarrollo responsivo.
+Ingeniero de Sistemas con más de **11 años de experiencia** en el diseño, desarrollo y soporte de **sistemas empresariales de misión crítica**.
 
-## 💻 Habilidades
-- **Lenguajes:** C#, Java, HTML, CSS
-- **Herramientas de Reporte:** Crystal Reports, JasperReports
-- **Otros:** Git, GitHub, GitHub Pages
+Especializado en **integraciones EDI**, **facturación electrónica**, **automatización de procesos** y **aseguramiento de calidad**, en entornos corporativos de alta disponibilidad.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJPam)](https://github.com/GitJPam/github-readme-stats)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJPam&size_weight=0.5&count_weight=0.5)
+## Enfoque profesional
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+* Backend robusto y mantenible
+* Procesos críticos de negocio
+* Integraciones confiables entre sistemas
+* Calidad, validación de datos y estabilidad operativa
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+## Especialidades técnicas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+* C# / .NET
+* SQL Server (transacciones, optimización)
+* Integraciones EDI (ORDERS, ASN, GL, IPS)
+* Facturación electrónica
+* XSLT y transformación de datos
+* Reportería corporativa
+* QA técnico y automatización
 
+---
 
-
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitJPam&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitJPam)](https://github.com/GitJPam/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-## 🌎 Idiomas
-Haz clic para cambiar el idioma de este perfil:
-- [English](#) | [Français](#) | [Español](#)
+Este perfil contiene proyectos diseñados con **enfoque empresarial real**, alineados con escenarios productivos.
 
 ## 📫 Contacto
 - **LinkedIn:** [Mi LinkedIn](https://linkedin.com/in/juan-pablo-a-18717046)
-- **Email:** [tuemail@example.com](mailto:sworfishmx@gmail.com.com)
-
-⭐️ *"Sigue codificando, sigue creciendo"*
+- **Email:** [Mi Email](mailto:sworfishmx@gmail.com.com)
